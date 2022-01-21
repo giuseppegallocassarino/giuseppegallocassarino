@@ -1,4 +1,6 @@
-<h2 align="center">Welcome👋</h2>
+<h1 align="center">Welcome👋</h1>
+
+<br>
 
 <p align="center">
 My name is Giuseppe, I am a computer engineer. 
@@ -8,8 +10,11 @@ I'm actually experimenting and studying many programming languages.
 </p>
 
 <hr>
+<br> 
     
 - I’m currently following a bootcamp on React Dev!
+
+<br>
 
 <hr>
 
