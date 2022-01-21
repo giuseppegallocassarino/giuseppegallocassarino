@@ -3,18 +3,13 @@
 <br>
 
 <p align="center">
-My name is Giuseppe, I am a computer engineer. 
-I'm actually experimenting and studying many programming languages.
+💻 I am a computer engineer. <br>
+⚡  I'm experimenting and studying many programming languages  <br>
+🌱 and I’m currently following a bootcamp on React Dev!
 <br> <br>
 
 </p>
 
-<hr>
-<br> 
-    
-- I’m currently following a bootcamp on React Dev!
-
-<br>
 
 <hr>
 
