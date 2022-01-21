@@ -4,7 +4,7 @@
 
 <p align="center">
 💻 I am a computer engineer. <br>
-⚡  I'm experimenting and studying many programming languages  <br>
+⚡  I'm experimenting and studying with various programming languages  <br>
 🌱 and I’m currently following a bootcamp on React Dev!
 <br> <br>
 
