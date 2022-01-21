@@ -1,6 +1,7 @@
 <h1 align="center">Welcome👋</h1>
 
-<br>
+
+
 
 <p align="center">
 💻 I am a computer engineer. <br>
@@ -11,7 +12,7 @@
 </p>
 
 
-<hr>
+
 
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -19,9 +20,9 @@
   <img src="https://img.icons8.com/color/96/ffffff/mac-client.png"/>
 </p>
 
-<hr>
 
-<h3 align="center">📍 My field of study</h3>
+
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />&nbsp;
     <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
@@ -34,16 +35,20 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
     <img alt="styled--components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;
     <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+    <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<hr>
 
-<h2  align="center">📫 Reach me on</h2>
+
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/giuseppe-gallo-cassarino-b03510155"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    
 </p>
 
-<hr>
+
 
 
