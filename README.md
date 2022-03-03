@@ -32,13 +32,10 @@
     <img alt="Nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />  &nbsp;
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />&nbsp;
-    <img alt="Unity" src="https://img.shields.io/badge/Unity-57b9d3.svg?logo=unity&logoColor=white&style=for-the-badge" />&nbsp;
     <img alt="NextJS" src="https://img.shields.io/badge/Next.js-000000?slogo=nextdotjs&logoColor=white&style=for-the-badge" />&nbsp;
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
     <img alt="styled--components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;
     <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>&nbsp;
-    <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>&nbsp;
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>&nbsp;
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>&nbsp;
 </p>
